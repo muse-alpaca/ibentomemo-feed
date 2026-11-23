@@ -1,0 +1,326 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Pakaaru//IbentoMemo 1.0//JA
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:イベントメモ
+X-WR-TIMEZONE:Asia/Tokyo
+REFRESH-INTERVAL;VALUE=DURATION:PT12H
+X-PUBLISHED-TTL:PT12H
+BEGIN:VEVENT
+UID:ibentomemo-3@pakaaru
+DTSTAMP:20261123T024125Z
+SEQUENCE:1
+DTSTART;VALUE=DATE:20261121
+DTEND;VALUE=DATE:20261122
+SUMMARY:第45回 深大寺そばまつり
+LOCATION:深大寺周辺のそば店（調布）
+DESCRIPTION:開催期間：2026年11月21日（土）〜11月29日（日）
+ 。まつり自体の開始・終了時刻は投稿に明記なし。\nス
+ タンプラリー付き絵馬は500円（100円の割引券5枚付き、3
+ 00個限定、1人2個まで）。むさし野深大寺窯で販売。ス
+ タンプラリーの期間は12月20日まで。10店制覇・全店制
+ 覇で先着プレゼントあり。\n3連休は大変混雑する予想
+ とのこと。\n\n出典：Instagram @jindai_matsuba（松葉茶屋）の
+ 投稿より\n\n出典：https://www.instagram.com/p/Df9bcJ7oCTA/
+URL:https://www.instagram.com/p/Df9bcJ7oCTA/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:ibentomemo-5@pakaaru
+DTSTAMP:20261123T024125Z
+SEQUENCE:1
+DTSTART:20261121T013000Z
+DTEND:20261121T063000Z
+SUMMARY:ご褒美マルシェ
+LOCATION:THREE CAPITALS（深沢）（東京都世田谷区深沢5-2-9）
+DESCRIPTION:米粉ドーナツの arice donut が出店（ラムいちじ
+ くクリームチーズ、ピーカンナッツチョコ、さつまチ
+ ーズ（秋限定）、プチ／プレーン、プチ／チョコ）。
+ テイクアウトOK、冷凍でお渡しも可能（日持ち2ヶ月）
+ 。\n店内カフェ：コーヒー400円、紅茶（30種類）400円、
+ キッズジュース200円。ランチBOXやドーナツとのセット
+ は＋200円。\n予約ブース（11/18時点の案内で一部のみ確
+ 認）：身体の声を聞く 15分2\,000円、エネルギーボディ
+ ケア 30分3\,000円、美容鍼 40〜50分4\,000円（満席）、クリ
+ スマスリース 30〜40分3\,800円。予約状況の画像は右端が
+ 切れていて全枠は未確認。\n\n出典：Instagram @three_capitals
+ _ の投稿より\n\n出典：https://www.instagram.com/p/Df8JBmtEy7O/
+URL:https://www.instagram.com/p/Df8JBmtEy7O/
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:ibentomemo-17@pakaaru
+DTSTAMP:20261123T024125Z
+SEQUENCE:1
+DTSTART:20261123T020000Z
+DTEND:20261123T090000Z
+SUMMARY:渋谷アーカイブ写真展2026
+LOCATION:渋谷ヒカリエ8階 8/COURT
+DESCRIPTION:会期：2026年11月10日〜23日（最終日）。通常11:00
+ 〜20:00、最終日の今日は18:00まで。入場無料。渋谷の約3
+ 0の通りを大正〜平成の写真186点でたどる展示。今年は
+ 証言を聞けるオーラルヒストリーも。書籍『渋谷消失
+ 事典』（900円）を会場で先行販売。主催：Commons Archive C
+ ollective。\n\n出典：https://biz.shibuyabunka.com/event/1130/
+URL:https://biz.shibuyabunka.com/event/1130/
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:ibentomemo-1@pakaaru
+DTSTAMP:20261123T024125Z
+SEQUENCE:1
+DTSTART:20261123T040000Z
+DTEND:20261123T100000Z
+SUMMARY:秋えんがわ市
+LOCATION:狛江湯 えんがわスペース（東京都狛江市東和泉1-
+ 12-6）
+DESCRIPTION:狛江湯の名物企画「えんがわ市」。お店、飲食
+ 、トーク、ライブ、フリーマーケットなど。お風呂に
+ 入らなくても楽しめます。\n\n\n14:00〜 フジイリク\n15:00
+ 〜 大池奏太＆後藤潤一\n16:00〜 盆丸一生\n\n出典: Instagra
+ m @komae_yu の投稿より\n\n出典：https://www.instagram.com/p/DfwM2M
+ soylx/
+URL:https://www.instagram.com/p/DfwM2Msoylx/
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:ibentomemo-4@pakaaru
+DTSTAMP:20261123T024125Z
+SEQUENCE:1
+DTSTART:20261127T020000Z
+DTEND:20261127T080000Z
+SUMMARY:FLEA MARKET @ YUTENJI KIMURA HOUSE
+LOCATION:Yutenji Kimura House（祐天寺 木村邸）（東京都目黒区
+ 五本木1-15-8）
+DESCRIPTION:開催日：2026年11月27日（金）・28日（土）・29日
+ （日）11:00〜17:00。\n祐天寺の木村邸（個人宅）の取り
+ 壊しに伴うフリーマーケット。家主の木村直子さんが
+ 世界中を旅して集めた器や家具などの出品。参加メン
+ バー：田中博子、西﨑弥沙、城素穂、滝本玲子、梅山
+ 弘子、小林みどり、杉渕水津、千葉麻里（増える可能
+ 性あり）。\n現金のみ。エコバッグ＆梱包材を持参。個
+ 人宅のため近隣への配慮を。\n田中博子さんのバナナク
+ リームタルトと器のケーキセットは予約制（予約方法
+ は別途お知らせ）。デザートと器のセットは毎日27セッ
+ ト。\n\n出典：Instagram @asimikazihsin の投稿より\n\n出典：ht
+ tps://www.instagram.com/p/Df2Vq5tCHIC/
+URL:https://www.instagram.com/p/Df2Vq5tCHIC/
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:ibentomemo-2@pakaaru
+DTSTAMP:20261123T024125Z
+SEQUENCE:1
+DTSTART:20261128T010000Z
+DTEND:20261128T080000Z
+SUMMARY:第3回 ウェルビーイングフェスタ
+LOCATION:世田谷キューズガーデン（世田谷区給田1丁目3番4
+ 2号他）
+DESCRIPTION:世田谷キューズガーデン ウェルビーイング フ
+ ェスタ（Well-being FESTA SETAGAYA Qs-GARDEN）。入場無料。雨天
+ 時は縮小規模で決行。\nコンセプト：CULTIVATE ～一緒に
+ 育てよう～\n芝生広場を中心にマルシェ、ワークショッ
+ プ、体験企画、ステージイベントなど。出店・企画は30
+ を超える。当日は普段ペット不可の芝生広場をペット
+ にも開放。\n\n出典：Instagram @qs_another_house の投稿より\n\
+ n出典：https://www.instagram.com/p/DfwQZfGmvm4/
+URL:https://www.instagram.com/p/DfwQZfGmvm4/
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:ibentomemo-10@pakaaru
+DTSTAMP:20261123T024125Z
+SEQUENCE:1
+DTSTART:20261128T010000Z
+DTEND:20261128T080000Z
+SUMMARY:青山ファーマーズマーケット
+LOCATION:国際連合大学中庭（東京都渋谷区神宮前5-53-70）
+DESCRIPTION:毎週土曜・日曜に開催されるファーマーズマー
+ ケット（Farmers Market @UNU）。この日付は直近の土曜分。1
+ 1/21・22も10:00〜17:00で開催されていた。
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:ibentomemo-8@pakaaru
+DTSTAMP:20261123T024125Z
+SEQUENCE:1
+DTSTART;VALUE=DATE:20261201
+DTEND;VALUE=DATE:20261202
+SUMMARY:表参道 ディオール イルミネーション 2026
+LOCATION:表参道ケヤキ並木（神宮橋交差点〜表参道交差点
+ ）
+DESCRIPTION:期間：2026年12月1日〜12月27日、点灯は日没〜22:0
+ 0（足元の低木のみ2027年1月5日まで）。観覧無料。ケヤ
+ キ154本にLED約90万球。\n\n出典：https://omotesando.or.jp/illumi/
+URL:https://omotesando.or.jp/illumi/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:ibentomemo-9@pakaaru
+DTSTAMP:20261123T024125Z
+SEQUENCE:1
+DTSTART:20261204T060000Z
+DTEND:20261204T120000Z
+SUMMARY:INSPIRE TOKYO 2026 WINTER
+LOCATION:代々木公園イベント広場／LINE CUBE SHIBUYA
+DESCRIPTION:J-WAVEの都市型フェス。期間：12月4日（金）15:00
+ 〜21:00、5日（土）・6日（日）11:00〜21:00。代々木公園イ
+ ベント広場は入場無料（フリーライブとマーケット）
+ 、LINE CUBE SHIBUYAは有料公演。サテライト会場の渋谷区立
+ 北谷公園ではアート展示。\n\n出典：https://www.j-wave.co.jp/
+ special/inspiretokyo/
+URL:https://www.j-wave.co.jp/special/inspiretokyo/
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:ibentomemo-7@pakaaru
+DTSTAMP:20261123T024125Z
+SEQUENCE:1
+DTSTART:20261210T030000Z
+DTEND:20261210T080000Z
+SUMMARY:Canvas Cookies Christmas Market
+LOCATION:Canvas Gallery Jiyugaoka（自由が丘）
+DESCRIPTION:Canvas Cookiesのクリスマスマーケット。12月10日・
+ 11日の2日間、各日12:00〜17:00。\n\n出典：https://www.instagram
+ .com/p/Df2OEOIgcaq/
+URL:https://www.instagram.com/p/Df2OEOIgcaq/
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:ibentomemo-12@pakaaru
+DTSTAMP:20261123T024125Z
+SEQUENCE:1
+DTSTART;VALUE=DATE:20261211
+DTEND;VALUE=DATE:20261212
+SUMMARY:NOËL de PETIT BATEAU
+LOCATION:二子玉川ライズ スタジオ＆ホール
+DESCRIPTION:プチバトーのクリスマスイベント。12月11日（
+ 金）〜13日（日）の3日間。開催時刻は投稿で確認でき
+ なかった。\n\n出典：https://www.instagram.com/p/Df_Nvgcvcr1/
+URL:https://www.instagram.com/p/Df_Nvgcvcr1/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:ibentomemo-13@pakaaru
+DTSTAMP:20261123T024125Z
+SEQUENCE:1
+DTSTART:20261211T080000Z
+DTEND:20261211T130000Z
+SUMMARY:青の洞窟 SHIBUYA
+LOCATION:渋谷公園通り〜代々木公園ケヤキ並木
+DESCRIPTION:期間：2026年12月11日〜12月27日、各日17:00〜22:00
+ 。約50万球の青いイルミネーション。今年はクリスマス
+ ツリー型サイネージ「青の洞窟 THE BLUE TREE」が初登場。
+ \n\n出典：https://shibuya-aonodokutsu.jp/
+URL:https://shibuya-aonodokutsu.jp/
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:ibentomemo-14@pakaaru
+DTSTAMP:20261123T024125Z
+SEQUENCE:1
+DTSTART;VALUE=DATE:20261212
+DTEND;VALUE=DATE:20261213
+SUMMARY:Christmas handmade pop-up（Fabujelry × Mokutekichi）
+LOCATION:Bonus Track（下北沢）
+DESCRIPTION:FabujelryとMokutekichiのクリスマス・ハンドメイド
+ ポップアップ。12月12日・13日の2日間。開催時刻は投稿
+ で確認できなかった。\n\n出典：https://www.instagram.com/p/Dfz
+ bh7nBECm/
+URL:https://www.instagram.com/p/Dfzbh7nBECm/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:ibentomemo-11@pakaaru
+DTSTAMP:20261123T024125Z
+SEQUENCE:1
+DTSTART:20261215T000000Z
+DTEND:20261215T110000Z
+SUMMARY:世田谷ボロ市
+LOCATION:ボロ市通り（世田谷駅・上町駅）（東京都世田谷
+ 区世田谷1丁目 ボロ市通り周辺）
+DESCRIPTION:440年以上続く年の市。12月15日・16日の2日間、
+ 各日9:00〜20:00（2027年1月15・16日にも開催）。約700の露
+ 店、名物は代官餅、ふるさと物産展も同時開催。入場
+ 無料。荒天時は中止の場合あり、周辺は交通規制（7:00
+ 〜22:00）。\n\n出典：https://www.city.setagaya.lg.jp/02072/10108.htm
+ l
+URL:https://www.city.setagaya.lg.jp/02072/10108.html
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:ibentomemo-15@pakaaru
+DTSTAMP:20261123T024125Z
+SEQUENCE:1
+DTSTART:20261219T020000Z
+DTEND:20261219T090000Z
+SUMMARY:FUDGE Christmas Market
+LOCATION:ワールド北青山ビル
+DESCRIPTION:FUDGE主催のクリスマスマーケット。12月19日（土
+ ）11:00〜18:00。\n\n出典：https://www.instagram.com/p/DfcLK3DygjT/
+URL:https://www.instagram.com/p/DfcLK3DygjT/
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:ibentomemo-16@pakaaru
+DTSTAMP:20261123T024125Z
+SEQUENCE:1
+DTSTART:20261220T020000Z
+DTEND:20261220T100000Z
+SUMMARY:SETAGAYA Street Corner Christmas
+LOCATION:ease club Kinuta（世田谷区砧）
+DESCRIPTION:地域のクリスマスイベント。12月20日（日）11:00
+ 〜19:00。\n\n出典：https://www.instagram.com/p/DfwXCDNMXrN/
+URL:https://www.instagram.com/p/DfwXCDNMXrN/
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:ibentomemo-6@pakaaru
+DTSTAMP:20261123T024125Z
+SEQUENCE:1
+DTSTART:20270130T020000Z
+DTEND:20270130T080000Z
+SUMMARY:Tokyo Coffee Festival 2027 Winter
+LOCATION:国際連合大学中庭（東京都渋谷区神宮前5-53-70）
+DESCRIPTION:開催日：2027年1月30日（土）・31日（日）11:00〜1
+ 7:00。主催：NPO法人Farmers Market Association、共催：Tokyo Coffe
+ e Festival 実行委員会。\nこの投稿はFood・Goods出店者の紹
+ 介。出店者の詳細は公式WEBサイトで追って公表予定で
+ 、情報は随時更新されるとのこと。\n\nFood：BRUNSWICK KITCH
+ EN & COFFEE（埼玉）、crepe mele（栃木）、DA'TTE COOKIE（東京
+ ）、guri（宮城）、horeki cookie（静岡）、kahana（東京）、
+ moon.bake（東京）、nenokoku.（東京）、Rabbit Hole Bakes（埼玉
+ ）、THE FRY BOYZ TACOS（宮城）、treat（埼玉）、uru菓子店（
+ 青森）、VOLO SACK（東京）、YUKI.RI（長野）、菓子屋siki（
+ 東京）、菓子屋ヒトトキ（埼玉）、クッポグラフィー
+ （東京）、小菓子屋OFFICINA DEL jOCO（神奈川）、ザ・ベイ
+ カーロブソン（東京）、タイニーピット（群馬）、と
+ らや菓子店（新潟）、那須栗園（栃木）\n\nGoods：almi pin
+  badge（大阪）、braunch（神奈川）、Caldera（東京）、GOOD C
+ OFFEE CLUB（神奈川）、GOOD SHOT COFFEE（新潟）、Hekiten Matcha
+ （京都）、jissa.（静岡）、vitamosa（東京）、ヴォーン（
+ 東京）、コーヒーを読む日曜。（東京）、陶房卓（埼
+ 玉）\n\n出典：Instagram @tokyocoffeefestival の投稿より\n\n出
+ 典：https://www.instagram.com/p/DfbmdABzh8y/
+URL:https://www.instagram.com/p/DfbmdABzh8y/
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+END:VCALENDAR
